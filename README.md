@@ -6,7 +6,7 @@
 - :bulb: I'm working on honing my webdev skills by creating my CV Webpage that will also serve as my project portfolio!
 - 🌱 Courses I'm currently taking: Data Structures, Statistics, Foundations of Sequential Programming, and Intro. to Cognitive Science  
 - 😄 Shows I'm currently watching: Seinfeld, Curb Your Enthusiasm, and Westworld  
-
+  
 
 [![Tiffany's github stats](https://github-readme-stats.vercel.app/api?username=tiffxnychiu&theme=gruvbox&show_icons=true&hide=stars,prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffxnychiu&exclude_repo=shecares.space,GIF-to-ASCII&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
