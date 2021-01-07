@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### About me :v:
+  
+- :books: I'm a second-year computer science student pursuing a minor in cognitive science  
+- :pencil2: My main languages are C++, Java, C, Python, HTML/CSS/JS, and _Racket_ (UW CS students know the struggle with this one :cold_sweat:)
+- :movie_camera: I love movies! Some of my favourites are Before Sunset, Reservoir Dogs, and Little Women.  
 <!--
 **tiffxnychiu/tiffxnychiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
