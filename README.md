@@ -6,7 +6,6 @@
 - :bulb: I'm working on honing my webdev skills by creating my CV Webpage that will also serve as my project portfolio!
 - 🌱 Courses I'm currently taking: Data Structures, Statistics, Foundations of Sequential Programming, and Intro. to Cognitive Science    
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tiffxnychiu&repo=Library)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tiffxnychiu/tiffxnychiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Tiffany's github stats](https://github-readme-stats.vercel.app/api?username=tiffxnychiu&theme=gruvbox&show_icons=true&hide=stars,prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
