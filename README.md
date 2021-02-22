@@ -2,8 +2,8 @@
   
 - :books: I'm a second-year computer science student minoring in cognitive science. My interests are in ML and reinforcement learning.  
 - :computer: My main languages are C++, Java, C, Python, HTML/CSS/JS, and _Racket_ (UW CS students know the struggle with this one :cold_sweat:)
+- :bulb: I'm currently working on Proxy! A web app for helping UW students find housing, sublet their apartment, etc.
 - :movie_camera: I love movies! Some of my favourites are Before Sunset, Reservoir Dogs, and Little Women.
-- :bulb: I'm working on honing my webdev skills by creating my CV Webpage that will also serve as my project portfolio!
 - 🌱 Courses I'm currently taking: Data Structures, Statistics, Foundations of Sequential Programming, and Intro. to Cognitive Science    
   
 <!--
