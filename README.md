@@ -4,7 +4,7 @@
 - :computer: My main languages are C++, Java, C, Python, HTML/CSS/JS, and _Racket_ (UW CS students know the struggle with this one :cold_sweat:)
 - :bulb: I'm currently working on Proxy! A web app for helping UW students find housing, sublet their apartment, etc.
 - :movie_camera: I love movies! Some of my favourites are Before Sunset, Reservoir Dogs, and Little Women.
-- 🌱 Courses I'm currently taking: Data Structures, Statistics, Foundations of Sequential Programming, and Intro. to Cognitive Science    
+- 🌱 I'm currently on a co-op term as a SWE intern for KeepTruckin    
   
 <!--
 **tiffxnychiu/tiffxnychiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
