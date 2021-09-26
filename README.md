@@ -2,7 +2,7 @@
   
 - :books: I'm a third-year computer science student minoring in cognitive science  
 - :computer: My main languages are C++, Java, C, Python, HTML/CSS/JS
-- 🌱 I'm currently on a co-op term as a SWE intern for KeepTruckin   
+- 🌱 I'm currently in my 3A term, taking Algorithms, User Interfaces, Operating Systems, and Intro Linguistics.   
 - :bulb: I'm currently working on Proxy! A web app for helping UW students find housing, sublet their apartment, etc.
 - :movie_camera: I love movies! Some of my favourites are Before Sunset, Reservoir Dogs, and Little Women. 
   
